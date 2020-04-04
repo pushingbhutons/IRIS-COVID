@@ -56,7 +56,10 @@ Tracks: https://covidathon.devpost.com/details/tracks<br />
 Featured Track: https://docs.google.com/document/d/1xYKvI0Vj2-2dsHEyvToThph5TD0wAFKkcesGmWvC428/edit<br />
 COVIDathon Resources: https://covidathon.devpost.com/details/resources<br />
 HACKINGCOVID19 (Project Info): https://docs.google.com/document/d/1gNdtEHz3rv1BkHEaClp8L9SX9PmAABi0EhKcenRID-s/edit?pli=1<br />
-Coronavirus Tech Handbook: https://coronavirustechhandbook.com/home
+Coronavirus Tech Handbook: https://coronavirustechhandbook.com/home<br />
+Google's 1 Billion Words ML-Training: https://github.com/pushingbhutons/1-billion-word-language-modeling-benchmark<br />
+Google BigQuery: https://cloud.google.com/bigquery<br />
+Ethereum in BigQuery: https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics<br />
 
 
 ## COVIDathon At-Home Actions 
