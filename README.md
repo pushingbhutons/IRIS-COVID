@@ -28,7 +28,7 @@ To support ourselves while building ZEEMZ, we build websites for small mom & pop
 ## ZEEMZ: Pandemic Patch submission 
 ZEEMZ: Pandemic Patch (Devpost Submission): https://devpost.com/software/pandemic-patch-augmented-reality-game<br />
 [ZEEMZ: Pandemic Patch (WIP Demo)](https://faucet.zeemz.xyz/pandemicpatch/index.html)<br />
-COVID19-GlobalHackathon (Github): https://github.com/resqs/covid19-globalhack<br />
+COVIDathon zeemzPandemic Repo (Github): https://github.com/pushingbhutons/zeemzPandemic<br />
 
 ## ZEEMZ: The Versipisces Secret
 https://zeemz.xyz<br />
