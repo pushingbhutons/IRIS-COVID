@@ -9,6 +9,7 @@ To do this, we're building IRIS-med, an AI solution that will allow doctors to r
 
 *We have a plan to game reality, have you brought your controller?*
 
+![Zeemz Cover](https://zeemz-imgs.web.app/imgs/zeemz.png)
 
 ## Background: Moe & Jenn developers of ZEEMZ
 To support ourselves while building ZEEMZ, we build websites for small mom & pop businesses. We also cofounded a private animal & climate action charity called [RESQ](https://resq.pir8aye.net). We're travelers trying to make a difference everywhere we go. We don't have any experience with building AI, nor with building scalable AI solutions. A year ago, Moe played with SnipsAIR, but only recently began reading the docs from WitAI when COVID struck. She has put in a lot of research hours into every aspect of the game economy and is still developing the white paper. The business plan side of ZEEMZ includes 1, 3, and 5 year projections. The legal side includes submitting requests to the SEC and FTC regarding our multiple digital assets as at least one could be considered a security
